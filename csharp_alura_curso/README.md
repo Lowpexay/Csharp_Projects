@@ -1,9 +1,7 @@
 <h1>Projeto ScreenSound</h1>
 * Esse é um projeto do curso da Alura de introdução ao C#;
 
-
 <br>
-
 
 Registro de Bandas:
 O programa permite registrar o nome de uma banda.
